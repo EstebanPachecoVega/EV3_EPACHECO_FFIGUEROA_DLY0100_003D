@@ -8,8 +8,8 @@
   "mejor_epoca": 5,
   "epocas_entrenadas": 8,
   "parametros": 1273220,
-  "segundos": 46.17042899131775,
-  "segundos_por_epoca": 5.771303623914719
+  "segundos": 47.26529502868652,
+  "segundos_por_epoca": 5.908161878585815
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 1, \"celda\": \"RNN\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.001, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 1, \"units\": 64}": {
   "exactitud_train": 0.8207,
@@ -68,8 +68,8 @@
   "mejor_epoca": 5,
   "epocas_entrenadas": 8,
   "parametros": 1310468,
-  "segundos": 49.79885911941528,
-  "segundos_por_epoca": 6.22485738992691
+  "segundos": 49.81007385253906,
+  "segundos_por_epoca": 6.226259231567383
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 1, \"celda\": \"GRU\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.001, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 42, \"units\": 64}": {
   "exactitud_train": 0.8374326029597339,
@@ -80,8 +80,8 @@
   "mejor_epoca": 4,
   "epocas_entrenadas": 7,
   "parametros": 1298052,
-  "segundos": 42.068734884262085,
-  "segundos_por_epoca": 6.009819269180298
+  "segundos": 42.54650664329529,
+  "segundos_por_epoca": 6.078072377613613
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 1, \"celda\": \"LSTM\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.0005, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 42, \"units\": 64}": {
   "exactitud_train": 0.8328,
@@ -332,8 +332,8 @@
   "mejor_epoca": 5,
   "epocas_entrenadas": 30,
   "parametros": 1310468,
-  "segundos": 188.5818645954132,
-  "segundos_por_epoca": 6.28606215318044
+  "segundos": 187.98413705825806,
+  "segundos_por_epoca": 6.266137901941935
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 3, \"celda\": \"LSTM\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.001, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 42, \"units\": 64}": {
   "exactitud_train": 0.8486864747046002,
@@ -344,8 +344,8 @@
   "mejor_epoca": 5,
   "epocas_entrenadas": 8,
   "parametros": 1377028,
-  "segundos": 70.08774399757385,
-  "segundos_por_epoca": 8.760967999696732
+  "segundos": 70.93078398704529,
+  "segundos_por_epoca": 8.866347998380661
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 4, \"celda\": \"LSTM\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.001, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 42, \"units\": 64}": {
   "exactitud_train": 0.8485029253183435,
@@ -476,8 +476,8 @@
   "mejor_epoca": 4,
   "epocas_entrenadas": 7,
   "parametros": 1377028,
-  "segundos": 63.41839957237244,
-  "segundos_por_epoca": 9.059771367481776
+  "segundos": 62.26022934913635,
+  "segundos_por_epoca": 8.894318478448051
  },
  "{\"batch_size\": 64, \"bidireccional\": false, \"capas\": 3, \"celda\": \"GRU\", \"clip\": 1.0, \"dropout\": 0.0, \"embed_dim\": 128, \"epocas\": 25, \"learning_rate\": 0.001, \"maxlen\": 40, \"min_freq\": 3, \"paciencia\": 3, \"pesos_clase\": false, \"semilla\": 42, \"units\": 64}": {
   "exactitud_train": 0.8217391304347826,
